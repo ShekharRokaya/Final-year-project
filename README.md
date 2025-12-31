@@ -1,3 +1,3 @@
 # Final-year-project
-This is my final years project
+This is my final years project.
 Author:Shekhar
